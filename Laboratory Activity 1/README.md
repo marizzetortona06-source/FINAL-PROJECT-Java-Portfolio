@@ -1,0 +1,3 @@
+This Java application is a basic library management system that enables menu-based user interaction. Book titles and their availability status are stored by the application using arrays. The library may be expanded by up to five books.
+
+Users have the option to view all of the books that are presently kept in the library, add new books, or change a book's status (available or borrowed). The menu is displayed repeatedly by the program until the user decides to quit. Students can learn fundamental Java concepts including arrays, loops, conditional statements, and user input using the Scanner class using this program.
